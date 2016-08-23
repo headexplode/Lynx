@@ -1,0 +1,2 @@
+# Lynx
+CSGO Server
